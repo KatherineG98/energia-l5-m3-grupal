@@ -137,6 +137,12 @@
     filter: drop-shadow(2px 2px 4px rgba(34, 133, 175, 0.5));
 }
 
+@media (max-width: 768px) {
+    .header__nav-button {
+        width: 92%;
+    }
+}
+
 .header__toggle {
     display: none;
     background: none;
