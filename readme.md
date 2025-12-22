@@ -1,3 +1,3 @@
 # Notas
 
-Recordar cada uno crea su rama en DEV, no en main.
+Se pasa a QA cambios realizados en DEV hasta la fecha 22-12-2025.
